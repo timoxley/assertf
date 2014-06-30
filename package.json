@@ -1,0 +1,15 @@
+{
+  "name": "assertf",
+  "version": "1.0.0",
+  "description": "assert with printf message formatting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example"
+  },
+  "author": "Tim Oxley",
+  "license": "MIT",
+  "keywords": ["assert", "format", "variables", "sprintf", "printf", "assertion", "testing", "test", "error", "message"],
+  "dependencies": {
+    "beforefn": "^2.2.0"
+  }
+}
