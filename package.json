@@ -8,8 +8,31 @@
   },
   "author": "Tim Oxley",
   "license": "MIT",
-  "keywords": ["assert", "format", "variables", "sprintf", "printf", "assertion", "testing", "test", "error", "message"],
+  "keywords": [
+    "assert",
+    "format",
+    "variables",
+    "sprintf",
+    "printf",
+    "assertion",
+    "testing",
+    "test",
+    "error",
+    "message"
+  ],
   "dependencies": {
     "beforefn": "^2.2.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/assertf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/assertf/issues"
+  },
+  "homepage": "https://github.com/timoxley/assertf"
 }
