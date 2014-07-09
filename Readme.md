@@ -35,7 +35,7 @@ assert.equal(a, b, 'assert.equal(%d, %d)')
 // => AssertionError: assert.equal(2, 3)
 
 assert.equal(a, b, 'assert.equal(%d [%s], %d [%s])', a, typeof a, b, typeof b)
-// => AssertionError: assert.equal(2 number, 3 number)
+// => AssertionError: assert.equal(2 [number], 3 [number])
 
 assert.ifError(new Error('omg'), 'Bad Error %s')
 // => AssertionError: Bad Error omg
