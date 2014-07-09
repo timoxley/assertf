@@ -1,6 +1,6 @@
 # assertf
 
-Node's built-in `assert` API augmented with message formatting printf-style.
+Node's built-in `assert` API augmented with printf-style message formatting.
 
 ## Installation
 
